@@ -23,6 +23,8 @@ public class TicTac {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
+		System.out.println("====三目並べ====");
+		System.out.println("====================");
 		System.out.println(" '7'|'8'|'9'");
 		System.out.println(" '-'+'-'+'-'");
 		System.out.println(" '4'|'5'|'6'");
